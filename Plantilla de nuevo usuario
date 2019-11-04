@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="es" xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" xmlns:rn="http://schemas.rightnow.com/crm/document">
+<head>
+<title>Respuestas Correctas</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<style type="text/css" xml:space="preserve">
+/*<![CDATA[*/
+.art {
+        WIDTH: 500px; BACKGROUND: #8ebf00; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; MARGIN: auto; PADDING-RIGHT: 10px
+}
+.art .artin {
+        WIDTH: 480px; BACKGROUND: #f1f7df; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; MARGIN: 20px auto auto; PADDING-RIGHT: 10px; box-shadow: 0px 0px 15px #181818
+}
+.access {
+        BORDER-TOP: #8ebf00 1px solid; BORDER-RIGHT: #8ebf00 1px solid; WIDTH: 200px; BACKGROUND: #f3f8e3; BORDER-BOTTOM: #8ebf00 1px solid; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; PADDING-LEFT: 15px; MARGIN: 20px auto auto; BORDER-LEFT: #8ebf00 1px solid; box-shadow: 0px 0px 15px #181818; border-radius: 10px
+}
+/*]]>*/
+</style>
+</head>
+<body style="BACKGROUND: #fff">
+<div class="art">
+<p align="center"><span style="FONT-SIZE: 17pt; FONT-FAMILY: Arial; FONT-WEIGHT: bold; COLOR: rgb(255,255,255)">¡BIENVENIDO!</span></p>
+<div class="artin">
+<p style="FONT-FAMILY: Ebrima" align="justify"><span style="FONT-SIZE: 14pt">Hola, <rn:merge type="text" field_name="contacts.first_name">Nombre</rn:merge>:<br /></span></p>
+<p style="FONT-FAMILY: Ebrima" align="justify">Respuestas Correctas es un portal de consulta en el Centro de Atención a Clientes de Liverpool y estamos encantados de que te hayas unido a nosotros. En Respuestas Correctas, puedes revisar la <span style="FONT-WEIGHT: bold; COLOR: #444444">información relevante sobre procesos, procedimientos, formularios, resultados de calidad, guías de apoyo, árboles de decisión</span> para tu día a día en la atención a clientes internos y externos.<br /></p>
+<p style="FONT-FAMILY: Ebrima" align="justify">Para empezar tu navegación, solo necesitas lo siguiente:</p>
+<div class="access">
+<p><span style="FONT-WEIGHT: bold">Usuario: <rn:merge type="text" field_name="contacts.login">Conexión</rn:merge></span><br /></p>
+<p><span style="FONT-WEIGHT: bold">Contraseña: <span style="FONT-STYLE: normal">Liverpool19</span></span></p>
+</div>
+<p style="FONT-FAMILY: Ebrima" align="justify">Recuerda mantenerte al pendiente de nuestras publicaciones y no olvides agregarnos entre tus contactos para poderte dar atención personalizada sobre cualquier duda o incidente del portal.<br /></p>
+<p style="FONT-FAMILY: Ebrima" align="justify">Ingresa al portal desde <a style="TEXT-DECORATION: underline" href="https://contactcenterliverpool.custhelp.com/">aquí</a>.<br /></p>
+<p style="FONT-FAMILY: Ebrima; FONT-WEIGHT: bold; COLOR: #e1058c; FONT-STYLE: normal" align="left">En todo lugar y en todo momento, Liverpool es parte de mi vida.<br /></p>
+<p style="FONT-FAMILY: Ebrima; COLOR: #808080; FONT-STYLE: italic" align="center">-&#160;Respuestas Correctas</p>
+</div>
+</div>
+<p align="center"></p>
+<p align="center"><span style="FONT-FAMILY: Vivaldi"><font style="FONT-FAMILY: Tahoma"><img alt="Image" src="https://contactcenterliverpool.custhelp.com/euf/generated/optimized/1571405852/themes/standard/images/custom/logo.png" width="280" height="87" /></font></span></p>
+<div rn:address="true">
+<p style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #808080" align="center"><span style="FONT-FAMILY: Vivaldi"><font style="FONT-FAMILY: Tahoma">Alfredo Zalce 7735 Ejido Atapaneo,</font></span></p>
+<p style="FONT-SIZE: 10pt; FONT-FAMILY: Tahoma; COLOR: #808080" align="center"><span style="FONT-FAMILY: Vivaldi"><font style="FONT-FAMILY: Tahoma">Ciudad Tres Maria, 58254 Morelia, Mich.</font></span></p>
+</div>
+<p style="COLOR: #efefef" align="right"><rn:unsub style="COLOR: #fff" field_name="contacts.ma_opt_in" field_id="100025" mode="one-click" target="_blank">No quiero recibir notificaciones</rn:unsub></p>
+</body>
+</html>
